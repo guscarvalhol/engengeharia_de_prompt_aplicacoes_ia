@@ -5,7 +5,7 @@ export function Footer() {
         <p className="text-sm text-gray-500">
           SelfMetrics &mdash; Desenvolvido para a disciplina de{' '}
           <a
-            href="https://github.com/adrianoabc786-prog/EngenhariaDePrompt_AplicacoesAI"
+            href="https://github.com/guscarvalhol/Engenharia-de-Prompt"
             target="_blank"
             rel="noopener noreferrer"
             className="text-emerald-400 hover:text-emerald-300 transition-colors underline underline-offset-2"
