@@ -76,8 +76,11 @@ Local: Laboratório de informática
 Professor(a): Kadidja Valéria  
 
 Adriano Veloso da Costa
+
 Gustavo de Carvalho Aragão
+
 Isadora Costa de Souza
+
 Diego Borges Rodrigues
 
 ---
