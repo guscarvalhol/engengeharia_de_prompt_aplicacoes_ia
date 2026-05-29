@@ -7,17 +7,23 @@ Estrutura_Projeto_GitHub_LowCode_NoCode.png
 
 ## 📌 Desafio Escolhido
 
-Automatização do cálculo de IMC
+O desafio central foi transpor requisitos clínicos complexos para uma aplicação funcional, operando sob as restrições e possibilidades de uma plataforma Low-Code/No-Code. Em vez de focar na sintaxe de programação, a dificuldade residiu em estruturar a lógica de negócio e a experiência do usuário (UX) através de uma "arquitetura de intenção", utilizando a Engenharia de Prompt como linguagem principal.
+
+Principais pontos do desafio:
+
+Abstração da Lógica: Traduzir fórmulas de antropometria e fluxos de dados para prompts que a IA interpretasse com precisão, garantindo que o cálculo de métricas e o histórico do paciente funcionassem sem erros de lógica.
+
+Gestão de Limitações: Trabalhar dentro do ecossistema do Bolt, aprendendo a contornar as limitações de customização impostas pela plataforma ao mesmo tempo em que se mantinha a identidade visual e funcional desejada.
+
+Pensamento Crítico: O desafio incluiu validar se a agilidade do desenvolvimento Low-Code compensa a menor autonomia sobre o código-fonte, exigindo uma visão estratégica sobre a escalabilidade da solução.
+
+Em suma, o desafio foi provar que, no paradigma Low-Code, o valor do desenvolvedor está na capacidade de especificar e estruturar requisitos com clareza, permitindo que a IA execute a construção técnica de forma eficiente.
 
 ---
 
 ## 🖥️ Protótipo
 
-- Prints das telas ou link para a aplicação criada.
-
-- Breve explicação de como o protótipo funciona.
-
-> Coloque os arquivos de imagem ou PDF na pasta `/docs`.
+- -O SelfMetrics é uma aplicação web de alta performance voltada para a otimização da antropometria clínica. O sistema foi concebido para resolver o problema da fragmentação de dados em acompanhamentos de saúde, substituindo métodos manuais (como planilhas físicas ou arquivos desconexos) por uma interface digital unificada, interativa e inteligente.
 
 ---
 
@@ -25,9 +31,15 @@ Automatização do cálculo de IMC
 
 - Nome da plataforma **Bolt**.
 
-- Reduzir drasticamente o custo operacional, eliminando a dependência de pessoas que fazem esse avaliação de forma superfaturada.
+- O Bolt é uma ferramenta de desenvolvimento baseada em IA que permite criar aplicações web inteiras apenas através de instruções em texto (prompts). Ele é classificado como uma ferramenta de Vibe-Code, um conceito onde você não precisa escrever o código linha por linha manualmente.
 
----
+Motivos para ter sido escolhida como ferramenta:
+
+Agilidade: Ele transforma uma ideia descrita em texto em uma aplicação funcional (com banco de dados, interface e lógica) em minutos.
+
+Foco no Produto: Como estudante, ele permitiu que você focasse em como o aplicativo deve funcionar (a experiência do usuário e as métricas de saúde) em vez de gastar tempo com a sintaxe técnica da programação.
+
+Facilidade de Prototipagem: Ele elimina a barreira técnica inicial, permitindo que você construa algo com nível profissional mesmo sendo um estudante.
 
 ## ✅ Vantagens Identificadas
 
